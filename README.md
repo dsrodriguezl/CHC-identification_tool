@@ -11,7 +11,7 @@ The Post-DMDS page is to be used, as its name suggests, after a DMDS derivatizat
 
 ## How to use it?
 
-When you open the XLSX file at first, you get a message asking to open it as a read-Only file. Accept this, in the Read-Only mode you can still edit the data input cells to use the tool, but no modification will be saved, so you cannot alter the functioning of the formulas and settings in which the tools relies.
+When you open the XLSX file at first, you get a message asking to open it as a read-Only file. Accept this, in the Read-Only mode you can still edit the data input cells to use the tool, but no modification will be saved, so you cannot alter the functioning of the formulas and settings in which the toos relies.
 
 Note: Here is assumed that you will be using Microsoft office software (i.e. Excel) to operate the XLSX tool.
 
